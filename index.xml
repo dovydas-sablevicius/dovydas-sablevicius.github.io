@@ -6,7 +6,33 @@
     <description>Recent content on My first terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 22:46:56 +0200</lastBuildDate><atom:link href="https://dovydas-sablevicius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 23:20:22 +0200</lastBuildDate><atom:link href="https://dovydas-sablevicius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Cloud Computing Journey</title>
+      <link>https://dovydas-sablevicius.github.io/posts/naujas/</link>
+      <pubDate>Sat, 30 Nov 2024 23:20:22 +0200</pubDate>
+      
+      <guid>https://dovydas-sablevicius.github.io/posts/naujas/</guid>
+      <description>&lt;p&gt;Welcome to my blog post about cloud computing!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a diagram showing cloud architecture:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/520px-Cloud_computing.svg.png&#34; alt=&#34;Cloud Architecture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And here&amp;rsquo;s an example of some cloud configuration code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-hcl&#34; data-lang=&#34;hcl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;resource&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;aws_instance&amp;#34; &amp;#34;example&amp;#34;&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  ami           &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ami-0c55b159cbfafe1f0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  instance_type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;t2.micro&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content>&lt;p&gt;Welcome to my blog post about cloud computing!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a diagram showing cloud architecture:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cloud_computing.svg/520px-Cloud_computing.svg.png&#34; alt=&#34;Cloud Architecture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And here&amp;rsquo;s an example of some cloud configuration code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-hcl&#34; data-lang=&#34;hcl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;resource&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;aws_instance&amp;#34; &amp;#34;example&amp;#34;&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  ami           &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ami-0c55b159cbfafe1f0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  instance_type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;t2.micro&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
     <item>
       <title>Postai?</title>
       <link>https://dovydas-sablevicius.github.io/posts/testas/</link>
